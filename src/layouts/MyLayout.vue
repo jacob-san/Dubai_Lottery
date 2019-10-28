@@ -22,6 +22,22 @@
     <q-drawer v-model="leftDrawerOpen" show-if-above bordered content-class="bg-grey-2">
       <q-list>
         <q-item-label header>Essential Links</q-item-label>
+        <q-item clickable to="/">
+          <q-item-section avatar>
+            <q-icon name="chat" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Select ticket</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item clickable tag="a" to="/recent-winners">
+          <q-item-section avatar>
+            <q-icon name="record_voice_over" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Recent Winners</q-item-label>
+          </q-item-section>
+        </q-item>
         <q-item clickable tag="a" target="_blank" href="https://www.dubaidutyfree.com/US$1Million">
           <q-item-section avatar>
             <q-icon name="school" />
@@ -38,24 +54,6 @@
           <q-item-section>
             <q-item-label>Github</q-item-label>
             <q-item-label caption>github.com/framework</q-item-label>
-          </q-item-section>
-        </q-item>
-        <q-item clickable tag="a" href="javascript:void(0)">
-          <q-item-section avatar>
-            <q-icon name="chat" />
-          </q-item-section>
-          <q-item-section>
-            <q-item-label>Discord Chat Channel</q-item-label>
-            <q-item-label caption>chat.dev</q-item-label>
-          </q-item-section>
-        </q-item>
-        <q-item clickable tag="a" href="javascript:void(0)">
-          <q-item-section avatar>
-            <q-icon name="record_voice_over" />
-          </q-item-section>
-          <q-item-section>
-            <q-item-label>Forum</q-item-label>
-            <q-item-label caption>forum.dev</q-item-label>
           </q-item-section>
         </q-item>
         <q-item clickable tag="a" href="javascript:void(0)">
