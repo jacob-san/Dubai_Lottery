@@ -1,6 +1,9 @@
 <template>
   <q-page class="flex flex-center page-container">
     <h5 class="page-title">Select Tickets({{tickets.length}})</h5>
+    <div>
+      <q-item class="text-italic see-winners" to="recent-winners">See Recent Winners</q-item>
+    </div>
     <div class="ticket-container">
       <q-btn
         outline
@@ -133,5 +136,10 @@ export default {
 
 .page-title {
   margin-top: 24px;
+}
+
+.see-winners {
+  color: gray;
+  text-decoration: underline;
 }
 </style>

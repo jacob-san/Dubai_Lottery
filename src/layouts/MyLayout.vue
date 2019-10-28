@@ -38,7 +38,12 @@
             <q-item-label>Recent Winners</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://www.dubaidutyfree.com/US$1Million">
+        <q-item
+          clickable
+          tag="a"
+          target="_blank"
+          href="https://www.dubaidutyfree.com/millenium-millionire/category/MM"
+        >
           <q-item-section avatar>
             <q-icon name="school" />
           </q-item-section>
