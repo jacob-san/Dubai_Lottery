@@ -25,12 +25,13 @@
         </q-card-section>
         <div>
           <q-chip
+            removable
             color="red"
             text-color="white"
-            size="18px"
             icon="bookmark"
             v-for="ticket in picked"
             :key="ticket"
+            @remove="pick(ticket)"
           >{{ticket}}</q-chip>
         </div>
         <q-card-actions align="right" class="bg-white text-teal">
@@ -55,9 +56,28 @@ export default {
     };
   },
   mounted() {
-    this.tickets = data.data[0];
+    // this.tickets = data.data[0];
+    // this.fetchTickets();
   },
   methods: {
+    async fetchTickets(page = 1, count = 500) {
+      const res = await fetch(
+        `https://www.dubaidutyfree.com/ccstorex/custom/v1/getRaffleSKU/MM317/614089798/A/${page}/${count}`,
+        {
+          // method: "GET",
+          // mode: "no-cors",
+          // headers: {
+          //   "Content-Type": "application/json",
+          //   Accept: "application/json"
+          //   // 'Content-Type': 'application/x-www-form-urlencoded',
+          // }
+        }
+      );
+      console.log({ res });
+      const data = await res.json();
+
+      return data;
+    },
     open() {
       this.openCart = true;
     },

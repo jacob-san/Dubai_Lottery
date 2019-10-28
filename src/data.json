@@ -1,19 +1,5 @@
 [
   {
-    "ID": 686258,
-    "DISPLAY_NAME": "MM317 0138",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0138",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686259,
     "DISPLAY_NAME": "MM317 0139",
     "PARENT_PRODUCT": "MM317",
@@ -22,7 +8,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-27T20:15:18.000Z",
     "TICKET_NUMBER": "0139",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -178,48 +164,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": "2019-10-25T10:45:44.000Z",
     "TICKET_NUMBER": "0164",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686286,
-    "DISPLAY_NAME": "MM317 0166",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0166",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686290,
-    "DISPLAY_NAME": "MM317 0170",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0170",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686291,
-    "DISPLAY_NAME": "MM317 0171",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0171",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -388,20 +332,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "0197",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686318,
-    "DISPLAY_NAME": "MM317 0198",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0198",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -840,20 +770,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 686697,
-    "DISPLAY_NAME": "MM317 0502",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0502",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686698,
     "DISPLAY_NAME": "MM317 0503",
     "PARENT_PRODUCT": "MM317",
@@ -864,20 +780,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "0503",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686700,
-    "DISPLAY_NAME": "MM317 0505",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0505",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -1018,20 +920,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "0521",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686719,
-    "DISPLAY_NAME": "MM317 0524",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0524",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -1428,20 +1316,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 686409,
-    "DISPLAY_NAME": "MM317 0664",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0664",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686410,
     "DISPLAY_NAME": "MM317 0665",
     "PARENT_PRODUCT": "MM317",
@@ -1494,20 +1368,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "0670",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686416,
-    "DISPLAY_NAME": "MM317 0671",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0671",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -1844,20 +1704,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "0753",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686349,
-    "DISPLAY_NAME": "MM317 0754",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "0754",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -2878,7 +2724,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-27T21:00:29.000Z",
     "TICKET_NUMBER": "1153",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -3052,20 +2898,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 686536,
-    "DISPLAY_NAME": "MM317 1166",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1166",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686537,
     "DISPLAY_NAME": "MM317 1167",
     "PARENT_PRODUCT": "MM317",
@@ -3174,20 +3006,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1174",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686545,
-    "DISPLAY_NAME": "MM317 1175",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1175",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -3382,7 +3200,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-27T19:03:36.000Z",
     "TICKET_NUMBER": "1192",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -3556,20 +3374,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 686433,
-    "DISPLAY_NAME": "MM317 1288",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1288",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686437,
     "DISPLAY_NAME": "MM317 1292",
     "PARENT_PRODUCT": "MM317",
@@ -3580,34 +3384,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1292",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686438,
-    "DISPLAY_NAME": "MM317 1293",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1293",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686439,
-    "DISPLAY_NAME": "MM317 1294",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1294",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -3760,7 +3536,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": "2019-10-26T14:51:30.000Z",
+    "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1310",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -3860,20 +3636,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1320",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686466,
-    "DISPLAY_NAME": "MM317 1321",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1321",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -5152,20 +4914,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 686757,
-    "DISPLAY_NAME": "MM317 1487",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1487",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686759,
     "DISPLAY_NAME": "MM317 1489",
     "PARENT_PRODUCT": "MM317",
@@ -5656,20 +5404,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687473,
-    "DISPLAY_NAME": "MM317 1678",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1678",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687474,
     "DISPLAY_NAME": "MM317 1679",
     "PARENT_PRODUCT": "MM317",
@@ -5950,34 +5684,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687498,
-    "DISPLAY_NAME": "MM317 1703",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1703",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687501,
-    "DISPLAY_NAME": "MM317 1706",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1706",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687504,
     "DISPLAY_NAME": "MM317 1709",
     "PARENT_PRODUCT": "MM317",
@@ -6086,20 +5792,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1719",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687515,
-    "DISPLAY_NAME": "MM317 1720",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1720",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -6300,20 +5992,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 688159,
-    "DISPLAY_NAME": "MM317 1839",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1839",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 688160,
     "DISPLAY_NAME": "MM317 1840",
     "PARENT_PRODUCT": "MM317",
@@ -6464,20 +6142,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1853",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688174,
-    "DISPLAY_NAME": "MM317 1854",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": "2019-10-25T17:34:54.000Z",
-    "TICKET_NUMBER": "1854",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -6688,20 +6352,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1869",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688190,
-    "DISPLAY_NAME": "MM317 1870",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1870",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -6972,34 +6622,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 688218,
-    "DISPLAY_NAME": "MM317 1898",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1898",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688219,
-    "DISPLAY_NAME": "MM317 1899",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1899",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 688221,
     "DISPLAY_NAME": "MM317 1901",
     "PARENT_PRODUCT": "MM317",
@@ -7010,34 +6632,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "1901",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688222,
-    "DISPLAY_NAME": "MM317 1902",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1902",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688225,
-    "DISPLAY_NAME": "MM317 1905",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "1905",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -7092,7 +6686,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T03:50:02.000Z",
     "TICKET_NUMBER": "1910",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -7644,20 +7238,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 688107,
-    "DISPLAY_NAME": "MM317 2162",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2162",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 688108,
     "DISPLAY_NAME": "MM317 2163",
     "PARENT_PRODUCT": "MM317",
@@ -7868,6 +7448,20 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
+    "ID": 688128,
+    "DISPLAY_NAME": "MM317 2183",
+    "PARENT_PRODUCT": "MM317",
+    "LIST_PRICE": 1000,
+    "TYPE": "MM",
+    "ACTIVE": "1",
+    "STATUS": "Available",
+    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
+    "BLOCKED_DATE": null,
+    "TICKET_NUMBER": "2183",
+    "TICKET_TYPE": "MM317 ",
+    "NEW_TICKET_NAME": "MM-317"
+  },
+  {
     "ID": 688129,
     "DISPLAY_NAME": "MM317 2184",
     "PARENT_PRODUCT": "MM317",
@@ -7990,20 +7584,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "2193",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688139,
-    "DISPLAY_NAME": "MM317 2194",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2194",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -8200,20 +7780,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "2465",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 686837,
-    "DISPLAY_NAME": "MM317 2467",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2467",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -9604,20 +9170,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 686964,
-    "DISPLAY_NAME": "MM317 2669",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2669",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 686965,
     "DISPLAY_NAME": "MM317 2670",
     "PARENT_PRODUCT": "MM317",
@@ -10024,20 +9576,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687006,
-    "DISPLAY_NAME": "MM317 2711",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2711",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687008,
     "DISPLAY_NAME": "MM317 2713",
     "PARENT_PRODUCT": "MM317",
@@ -10258,6 +9796,20 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "2888",
+    "TICKET_TYPE": "MM317 ",
+    "NEW_TICKET_NAME": "MM-317"
+  },
+  {
+    "ID": 687034,
+    "DISPLAY_NAME": "MM317 2889",
+    "PARENT_PRODUCT": "MM317",
+    "LIST_PRICE": 1000,
+    "TYPE": "MM",
+    "ACTIVE": "1",
+    "STATUS": "Available",
+    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
+    "BLOCKED_DATE": null,
+    "TICKET_NUMBER": "2889",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -11074,20 +10626,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687113,
-    "DISPLAY_NAME": "MM317 2968",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2968",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687114,
     "DISPLAY_NAME": "MM317 2969",
     "PARENT_PRODUCT": "MM317",
@@ -11308,20 +10846,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "2985",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687131,
-    "DISPLAY_NAME": "MM317 2986",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "2986",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -12232,20 +11756,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "3275",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687222,
-    "DISPLAY_NAME": "MM317 3277",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3277",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -13370,20 +12880,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687331,
-    "DISPLAY_NAME": "MM317 3436",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3436",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687333,
     "DISPLAY_NAME": "MM317 3438",
     "PARENT_PRODUCT": "MM317",
@@ -14000,6 +13496,20 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
+    "ID": 687382,
+    "DISPLAY_NAME": "MM317 3487",
+    "PARENT_PRODUCT": "MM317",
+    "LIST_PRICE": 1000,
+    "TYPE": "MM",
+    "ACTIVE": "1",
+    "STATUS": "Available",
+    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
+    "BLOCKED_DATE": null,
+    "TICKET_NUMBER": "3487",
+    "TICKET_TYPE": "MM317 ",
+    "NEW_TICKET_NAME": "MM-317"
+  },
+  {
     "ID": 687383,
     "DISPLAY_NAME": "MM317 3488",
     "PARENT_PRODUCT": "MM317",
@@ -14024,20 +13534,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "3490",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687386,
-    "DISPLAY_NAME": "MM317 3491",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3491",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -14150,20 +13646,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "3503",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687400,
-    "DISPLAY_NAME": "MM317 3505",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3505",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -14308,20 +13790,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687414,
-    "DISPLAY_NAME": "MM317 3519",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3519",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687415,
     "DISPLAY_NAME": "MM317 3520",
     "PARENT_PRODUCT": "MM317",
@@ -14330,7 +13798,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T03:16:17.000Z",
     "TICKET_NUMBER": "3520",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -14374,20 +13842,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "3524",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687420,
-    "DISPLAY_NAME": "MM317 3525",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3525",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -14444,20 +13898,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "3529",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687426,
-    "DISPLAY_NAME": "MM317 3531",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "3531",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -14672,20 +14112,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687971,
-    "DISPLAY_NAME": "MM317 4001",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": "2019-10-27T15:15:38.000Z",
-    "TICKET_NUMBER": "4001",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687972,
     "DISPLAY_NAME": "MM317 4002",
     "PARENT_PRODUCT": "MM317",
@@ -14710,20 +14136,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "4003",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687975,
-    "DISPLAY_NAME": "MM317 4005",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4005",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -14934,20 +14346,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "4023",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687994,
-    "DISPLAY_NAME": "MM317 4024",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4024",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -15354,20 +14752,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "4056",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 688027,
-    "DISPLAY_NAME": "MM317 4057",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4057",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -15946,20 +15330,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687526,
-    "DISPLAY_NAME": "MM317 4131",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4131",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687527,
     "DISPLAY_NAME": "MM317 4132",
     "PARENT_PRODUCT": "MM317",
@@ -15968,7 +15338,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T03:26:16.000Z",
     "TICKET_NUMBER": "4132",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -16066,7 +15436,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T03:26:11.000Z",
     "TICKET_NUMBER": "4141",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -16898,20 +16268,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687597,
-    "DISPLAY_NAME": "MM317 4227",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4227",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687598,
     "DISPLAY_NAME": "MM317 4228",
     "PARENT_PRODUCT": "MM317",
@@ -17034,20 +16390,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "4236",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687607,
-    "DISPLAY_NAME": "MM317 4237",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4237",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -18298,20 +17640,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687711,
-    "DISPLAY_NAME": "MM317 4416",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4416",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687712,
     "DISPLAY_NAME": "MM317 4417",
     "PARENT_PRODUCT": "MM317",
@@ -19194,20 +18522,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687782,
-    "DISPLAY_NAME": "MM317 4612",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4612",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687783,
     "DISPLAY_NAME": "MM317 4613",
     "PARENT_PRODUCT": "MM317",
@@ -19558,20 +18872,6 @@
     "NEW_TICKET_NAME": "MM-317"
   },
   {
-    "ID": 687811,
-    "DISPLAY_NAME": "MM317 4641",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4641",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
     "ID": 687812,
     "DISPLAY_NAME": "MM317 4642",
     "PARENT_PRODUCT": "MM317",
@@ -19638,20 +18938,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": "2019-10-24T09:54:05.000Z",
     "TICKET_NUMBER": "4646",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687817,
-    "DISPLAY_NAME": "MM317 4647",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4647",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -20154,7 +19440,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T03:30:48.000Z",
     "TICKET_NUMBER": "4686",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -20492,20 +19778,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "4712",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687883,
-    "DISPLAY_NAME": "MM317 4713",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4713",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
@@ -21078,7 +20350,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T03:30:28.000Z",
     "TICKET_NUMBER": "4761",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -21162,7 +20434,7 @@
     "ACTIVE": "1",
     "STATUS": "Available",
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
+    "BLOCKED_DATE": "2019-10-28T04:09:38.000Z",
     "TICKET_NUMBER": "4768",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
@@ -21304,20 +20576,6 @@
     "CREATION_DATE": "2019-10-24T08:09:04.000Z",
     "BLOCKED_DATE": null,
     "TICKET_NUMBER": "4830",
-    "TICKET_TYPE": "MM317 ",
-    "NEW_TICKET_NAME": "MM-317"
-  },
-  {
-    "ID": 687951,
-    "DISPLAY_NAME": "MM317 4831",
-    "PARENT_PRODUCT": "MM317",
-    "LIST_PRICE": 1000,
-    "TYPE": "MM",
-    "ACTIVE": "1",
-    "STATUS": "Available",
-    "CREATION_DATE": "2019-10-24T08:09:04.000Z",
-    "BLOCKED_DATE": null,
-    "TICKET_NUMBER": "4831",
     "TICKET_TYPE": "MM317 ",
     "NEW_TICKET_NAME": "MM-317"
   },
